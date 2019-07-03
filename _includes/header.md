@@ -1,4 +1,5 @@
-# [Darien HS AP COMPUTER SCIENCE PRINCIPLES USING CS50 AP]({{ "/" | relative_url }})
+# [AP COMPUTER SCIENCE PRINCIPLES]({{ "/" | relative_url }})
 
-Harvard University\\
-2018–2019
+Harvard University's CS50 AP\\
+Mrs. O'Connor\\
+Darien High School
