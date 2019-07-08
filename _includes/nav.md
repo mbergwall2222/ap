@@ -1,6 +1,6 @@
 ***
 
-* [Google Classroom] (https://classroom.google.com/)
+* [Google Classroom](https://classroom.google.com/)
 * [CS50 IDE](https://cs50.io/)
 * [CS50 Reference](https://reference.cs50.net/)
 
